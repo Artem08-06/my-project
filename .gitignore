@@ -1,0 +1,11 @@
+node_modules/
+*.log
+.cache/
+.vscode/
+*.dat
+*.ini
+*.blf
+*.regtrans-ms
+NTUSER.*
+AppData/
+
